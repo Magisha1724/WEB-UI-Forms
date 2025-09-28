@@ -45,3 +45,13 @@ Clear labels and feedback for all actions.
 
 License
 This project is open for educational and demo use. No restrictions.
+
+
+OUTPUT:
+![Input Screenshot](magisha.png)
+![Input Screenshot](magisha R S.png)
+![Input Screenshot](R S magisha.png)
+
+
+
+
